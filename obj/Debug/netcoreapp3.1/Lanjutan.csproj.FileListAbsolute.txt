@@ -1,0 +1,13 @@
+E:\Kuliah\semester 2\Pemprograman\Lanjutan\Lanjutan\bin\Debug\netcoreapp3.1\Lanjutan.exe
+E:\Kuliah\semester 2\Pemprograman\Lanjutan\Lanjutan\bin\Debug\netcoreapp3.1\Lanjutan.deps.json
+E:\Kuliah\semester 2\Pemprograman\Lanjutan\Lanjutan\bin\Debug\netcoreapp3.1\Lanjutan.runtimeconfig.json
+E:\Kuliah\semester 2\Pemprograman\Lanjutan\Lanjutan\bin\Debug\netcoreapp3.1\Lanjutan.runtimeconfig.dev.json
+E:\Kuliah\semester 2\Pemprograman\Lanjutan\Lanjutan\bin\Debug\netcoreapp3.1\Lanjutan.dll
+E:\Kuliah\semester 2\Pemprograman\Lanjutan\Lanjutan\bin\Debug\netcoreapp3.1\Lanjutan.pdb
+E:\Kuliah\semester 2\Pemprograman\Lanjutan\Lanjutan\obj\Debug\netcoreapp3.1\Lanjutan.csprojAssemblyReference.cache
+E:\Kuliah\semester 2\Pemprograman\Lanjutan\Lanjutan\obj\Debug\netcoreapp3.1\Lanjutan.csproj.CoreCompileInputs.cache
+E:\Kuliah\semester 2\Pemprograman\Lanjutan\Lanjutan\obj\Debug\netcoreapp3.1\Lanjutan.AssemblyInfoInputs.cache
+E:\Kuliah\semester 2\Pemprograman\Lanjutan\Lanjutan\obj\Debug\netcoreapp3.1\Lanjutan.AssemblyInfo.cs
+E:\Kuliah\semester 2\Pemprograman\Lanjutan\Lanjutan\obj\Debug\netcoreapp3.1\Lanjutan.dll
+E:\Kuliah\semester 2\Pemprograman\Lanjutan\Lanjutan\obj\Debug\netcoreapp3.1\Lanjutan.pdb
+E:\Kuliah\semester 2\Pemprograman\Lanjutan\Lanjutan\obj\Debug\netcoreapp3.1\Lanjutan.genruntimeconfig.cache
